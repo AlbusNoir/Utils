@@ -3,7 +3,7 @@ import matplotlib.ticker as ticker
 import csv
 import datetime
 
-time = []
+times = []
 download = []
 upload = []
 
