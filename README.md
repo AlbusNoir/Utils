@@ -140,6 +140,6 @@ Cass(My SO who doesn't have GH) | A lot of util/tool suggestions
 [stars-shield]: https://img.shields.io/github/stars/albusnoir/utils.svg?style=for-the-badge
 [stars-url]: https://github.com/albusnoir/utils/stargazers
 [license-shield]: https://img.shields.io/github/license/albusnoir/utils.svg?style=for-the-badge
-[license-url]: https://github.com/albusnoir/utils/blob/master/LICENSE
+[license-url]: https://github.com/albusnoir/utils/blob/main/LICENSE
 [twitter-shield]: https://img.shields.io/badge/-twitter-Twitter?style=for-the-badge&logo=twitter&colorB=555
 [twitter-url]: https://twitter.com/kaleleafygreen
